@@ -11,7 +11,7 @@ background-size: cover;
 height: 100vh;
 }
 .span{
-    color: blueviolet;
+    color: #00E7FF;
 }
 .head_head{
     display: flex;
@@ -150,3 +150,112 @@ justify-content: center;
     padding: 30px;
 }
 /* Some Cases */
+/* Plan 1 */
+.plan1{
+display: flex;
+justify-content: space-between;
+margin:0 120px;
+}
+.sub_plan_text{
+    font-size: 50px;
+    font-weight: 900;
+    margin-right: 90px;
+}
+.sub_plan_pha{
+text-align: justify;
+margin-top: 30px;
+color: #474747;
+}
+.sub_plan_pha2{
+    text-align: justify;
+    margin-top: 20px;
+    color: #474747;
+}
+.btn_heade{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    background-color: rgb(234, 46, 158);
+    height: 50px;
+    width: 230px;
+    border-radius: 8px;
+    font-size: 23px; 
+    color: rgb(255, 253, 253);
+    border: none;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'PT Serif', serif;
+    margin-top: 50px;
+}
+.imag_plan1{
+height:450px;
+width:390px;
+margin-left: 80px;
+border-radius: 8px;
+}
+/* Plan 2 */
+.plan2{
+    display: flex;
+    justify-content: space-between;
+    margin:30px 120px;
+}
+.sub_plan_text2{
+        font-size: 50px;
+        font-weight: 900;
+ }
+.sub_plan_pha2{
+    text-align: justify;
+    margin-top: 30px;
+    color: #474747;
+    }
+    .sub_plan_pha2_2{
+        text-align: justify;
+        margin-top: 20px;
+        color: #474747;
+    }
+    .imag_plan2{
+    height:450px;
+    width:390px;
+    margin-right:80px;
+    border-radius: 8px;
+    }
+    /* Get My Update */
+    .mail_subscribe{
+    margin-top: 60px;
+    }
+     input{
+        
+     }
+    #mail{
+        height: 45px;
+        width:300px ;
+        margin-left: 450px;
+        padding-left: 8px;
+    }
+    .button{
+    background-color: rgb(234, 46, 158);
+    color: rgb(255, 253, 253);
+    border-radius:5px;
+    height: 48px;
+    width:150px;
+    }
+    /* footer */
+    footer{
+        height: 300px;
+        background: #000;
+        margin-top: 100px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .humble{
+        color: rgb(228, 66, 166); 
+    }
+    .hum_text{
+        font-family:'Times New Roman', Times, serif;
+    }
+    .do{
+        color: white;
+        font-size: 10px;
+        margin-left: 30px;
+        margin-top: 30px;
+    }
