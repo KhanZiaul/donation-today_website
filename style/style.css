@@ -121,8 +121,7 @@ justify-content: center;
     border: none;
     font-family: 'Open Sans', sans-serif;
     font-family: 'PT Serif', serif;
-    margin-left: 650px;
-    margin-top: 50px;
+    margin: 20px auto;
 }
 /* Our Donation Plan */
 .dn_tody1{
